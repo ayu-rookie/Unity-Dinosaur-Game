@@ -13,9 +13,15 @@ This is a little game made by Unity2D.
 <li><b>Unity C# : </b></li>
 <ul>AddForce、GameObject、Instantiat、Time.deltatime、</br>
   OnCollisionEnter2D、 OnTriggerEnter2D、SceneManager.LoadScene() ... 等。</br>
-</ul>  
+</ul></br>  
+
 <li><b>主程式請參考檔案位置 : </b></li>
 <ul>Assets/ XXX .cs</ul>
+
+
+<li><b>Demo 影片 : </b></li>
+<ul>https://reurl.cc/q1KEkE</ul>
+
+
   
-</br>
-持續更新中 ...
+</br>持續努力更新中 *** &nbsp;&nbsp; (ง •̀_•́)ง
